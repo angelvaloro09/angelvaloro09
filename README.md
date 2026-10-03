@@ -47,4 +47,3 @@ Computer Engineering student focused on backend software development, RESTful AP
 ## Contact & Links
 
 - LinkedIn: [linkedin.com/in/angel-oropeza-34338834b](https://www.linkedin.com/in/angel-oropeza-34338834b/)
-- GitHub: [github.com/angelvaloro09](https://github.com/angelvaloro09)
