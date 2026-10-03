@@ -1,4 +1,4 @@
-# Angel Oropeza
+# Angel O
 
 Computer Engineering student focused on backend software development, RESTful API architecture, and relational database management. Experienced in building operational enterprise platforms, implementing layered architecture patterns, and designing normalized schemas.
 
